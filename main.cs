@@ -20,7 +20,6 @@ class Program
         num1 = Convert.ToInt32(Console.ReadLine());
         Console.Write("multiplied by: ");
         num2 = Convert.ToInt32(Console.ReadLine());
-      
 
         while (count < num2)
         {
